@@ -1,7 +1,5 @@
 The list of my accounts over the Net
 
-- [GitHub]
-
 ### Social
 
 - [LinkedIn]
