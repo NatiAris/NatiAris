@@ -37,8 +37,6 @@ The list of my accounts over the Net
 
 - [keybr]
 
-![img:toplangs]
-
 [acmp.ru]: https://acmp.ru/index.asp?main=user&id=114705
 [checkio]: https://py.checkio.org/user/natiaris/
 [Class Central]: https://www.class-central.com/u/38703/
